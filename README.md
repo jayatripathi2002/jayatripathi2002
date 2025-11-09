@@ -46,12 +46,9 @@ I build things that *work* — fast, reliable, and clean. From backend systems t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatripathi2002&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=jayatripathi2002&theme=radical" alt="GitHub Streak" height="160" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayatripathi2002&theme=radical" alt="GitHub Streak" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayatripathi2002&theme=react-dark" alt="GitHub Activity Graph" />
