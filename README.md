@@ -22,13 +22,11 @@ I build things that *work* — fast, reliable, and clean. From backend systems t
 
 | Category | Technologies |
 |-----------|---------------|
-| **Languages** | Python, JavaScript (ES6+), TypeScript, Java, C++, C |
+| **Languages** | Python, JavaScript, TypeScript, C++, C |
 | **Frontend** | ReactJS, Next.js, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, NestJS, Flask, Django |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Oracle |
-| **Data & Visualization** | Power BI, Pandas, NumPy, Matplotlib |
-| **Cloud & DevOps** | AWS (EC2, S3), Docker, Apache |
-| **Version Control** | Git, GitHub, GitHub Actions |
+| **Backend** | Node.js, Express.js, Flask, Django |
+| **Databases** | MySQL, MongoDB |
+| **Version Control** | Git, GitHub |
 | **Others** | Postman, VS Code, Linux, SharePoint |
 
 ---
